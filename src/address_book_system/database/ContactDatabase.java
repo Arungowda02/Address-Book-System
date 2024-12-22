@@ -9,7 +9,4 @@ public class ContactDatabase {
     public HashMap<String, Person> contactDatabase(){
         return new HashMap<>();
     }
-
-
-
 }
